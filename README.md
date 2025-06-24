@@ -1,4 +1,3 @@
-# pixxel_attitude_visualizer
 # Satellite Attitude Visualizer – Pixxel Assignment
 
 This is a full-stack web application for visualizing the orientation (attitude) of a satellite over time, using quaternion data provided daily in `.csv` format. It supports both actual and predicted data, and is designed to be used by engineers and non-technical users alike.
